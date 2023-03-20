@@ -46,8 +46,9 @@
 #
 import requests
 import json
-import pandas as pd
 import math
+import pandas as pd
+
 
 
 def get_figi_data(api_key, composite_id):
